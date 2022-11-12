@@ -1,2 +1,2 @@
 # Client-new
-newest stable ver of Client
+newest stable version of Client
